@@ -1,4 +1,28 @@
+# Welcome to my GitHub Page
+
+I am indeed immersing oneself in study.
+
+```markdown
+YOU IDIOT
+```
+
+
+
+
+
+ 
+  
+   
+    
+      
+
+
+
+
+
 ## Welcome to GitHub Pages
+
+I think you can [Google](http://www.google.com) it anytime you want.
 
 You can use the [editor on GitHub](https://github.com/skylerhuang/first.githubpage.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +31,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Hi everyone
+
+# HEADER1
+## HEADER2
+### HEADER3
+
+- Bulleted
+
+```
+
 
 ```markdown
 Syntax highlighted code block
